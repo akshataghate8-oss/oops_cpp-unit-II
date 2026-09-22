@@ -22,7 +22,7 @@ public:
 };
 
 int main() {
-    Account account(5000.0);
+    Account account(6000.0);
 
     Auditor auditor;
     auditor.inspect(account);
